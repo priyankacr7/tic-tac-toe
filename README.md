@@ -45,20 +45,20 @@ Run the game:
 -Click on an empty box to make your move.
 
 ## The game will:
--✅ Declare the winner when 3 marks align.
--🤝 Declare a draw if the board is full and no winner.
--🌟 Highlight winning cells in green.
--Click Reset to play again.
+- ✅ Declare the winner when 3 marks align.
+- 🤝 Declare a draw if the board is full and no winner.
+- 🌟 Highlight winning cells in green.
+- Click Reset to play again.
 
 ## 📌 Future Enhancements
--🤖 Add AI mode to play against the computer.
--🏆 Keep track of scores (X wins, O wins, Draws).
--🎶 Add animations and sound effects.
+- 🤖 Add AI mode to play against the computer.
+- 🏆 Keep track of scores (X wins, O wins, Draws).
+- 🎶 Add animations and sound effects.
 
 ## 🛠️ Tech Stack
--HTML5
--CSS3
--JavaScript (ES6)
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
 ## 👩‍💻 Author
 Developed by Priyanka Srivastava ✨
