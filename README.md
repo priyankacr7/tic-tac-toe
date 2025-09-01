@@ -1,4 +1,4 @@
-# Gaem Link
+# Game Link
 https://tic-tac-toe-ppp.netlify.app/
 
 # 🎮 Tic Tac Toe Game
