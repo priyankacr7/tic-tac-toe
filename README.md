@@ -24,11 +24,7 @@ Copy code
 
 ---
 
-## 📸 Screenshot
-(You can add a screenshot here by taking one and uploading it to your repo, then linking it.)
-
-```markdown
-![Tic Tac Toe Screenshot](screenshot.png)
+![Tic Tac Toe Screenshot]
 ⚙️ How to Run
 Clone the repository:
 
