@@ -25,9 +25,7 @@ tic-tac-toe/
 A simple and fun Tic Tac Toe game built using HTML, CSS, and JavaScript.
 Players take turns placing X and O on a 3x3 grid. The first to align three in a row, column, or diagonal wins.
 
-📸 Screenshot
-
-⚙️ How to Run
+## ⚙️ How to Run
 
 Clone the repository:
 
@@ -42,40 +40,27 @@ cd tic-tac-toe
 Run the game:
 👉 Open index.html in your browser.
 
-🕹️ How to Play
+## 🕹️ How to Play
+-Player X always starts first.
+-Click on an empty box to make your move.
 
-Player X always starts first.
+## The game will:
+-✅ Declare the winner when 3 marks align.
+-🤝 Declare a draw if the board is full and no winner.
+-🌟 Highlight winning cells in green.
+-Click Reset to play again.
 
-Click on an empty box to make your move.
+## 📌 Future Enhancements
+-🤖 Add AI mode to play against the computer.
+-🏆 Keep track of scores (X wins, O wins, Draws).
+-🎶 Add animations and sound effects.
 
-The game will:
+## 🛠️ Tech Stack
+-HTML5
+-CSS3
+-JavaScript (ES6)
 
-✅ Declare the winner when 3 marks align.
-
-🤝 Declare a draw if the board is full and no winner.
-
-🌟 Highlight winning cells in green.
-
-Click Reset to play again.
-
-📌 Future Enhancements
-
-🤖 Add AI mode to play against the computer.
-
-🏆 Keep track of scores (X wins, O wins, Draws).
-
-🎶 Add animations and sound effects.
-
-🛠️ Tech Stack
-
-HTML5
-
-CSS3
-
-JavaScript (ES6)
-
-👩‍💻 Author
-
+## 👩‍💻 Author
 Developed by Priyanka Srivastava ✨
 Feel free to fork this project and improve it!
 
